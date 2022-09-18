@@ -17,3 +17,18 @@ public class StarPattern2
 	}
 
 }
+
+
+/*
+
+OUTPUT :
+
+
+*****
+****
+***
+**
+*
+
+
+*/
