@@ -28,7 +28,8 @@ public class NumberPattern2
 /*
 
 OUTPUT :
-    1
+
+     1
     12
    123
   1234
