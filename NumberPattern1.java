@@ -17,3 +17,16 @@ public class NumberPattern1
 	}
 
 }
+
+
+/*
+
+OUTPUT : 
+
+1 
+12 
+123 
+1234 
+12345 
+
+*/
