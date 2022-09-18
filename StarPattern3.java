@@ -21,3 +21,18 @@ public class StarPattern3
 		}
 	}
 }
+
+
+/*
+
+OUTPUT :
+
+
+      *
+     **
+    ***
+   ****
+  *****
+
+
+*/
