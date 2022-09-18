@@ -26,3 +26,16 @@ public class StarPattern01
 	}
 
 }
+
+
+
+/*
+OUTPUT :
+     
+* 
+** 
+*** 
+**** 
+***** 
+ 
+*/
