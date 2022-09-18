@@ -23,3 +23,15 @@ public class NumberPattern2
 	}
 
 }
+
+
+/*
+
+OUTPUT :
+    1
+    12
+   123
+  1234
+ 12345
+ 
+*/
